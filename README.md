@@ -1,2 +1,2 @@
 # collprator-test-project
-okay the conflic solved
+b2 make good changes will not rejected
